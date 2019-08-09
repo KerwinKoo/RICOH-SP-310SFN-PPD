@@ -1,0 +1,2 @@
+# RICOH-SP-310SFN-PPD
+Printer PPD driver for RICOH SP 310SFN
